@@ -216,6 +216,11 @@ img {
   border-color: var(--accent);
 }
 
+.hero-meta {
+  line-height: 1.5rem;
+  margin-top: 1.5rem;
+}
+
 .hero-visual {
   display: flex;
   justify-content: center;
